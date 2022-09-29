@@ -1,0 +1,2 @@
+IP address: 172.22.11.2
+hostname: roboRIO-7826-FRC
